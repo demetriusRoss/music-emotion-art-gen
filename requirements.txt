@@ -1,0 +1,14 @@
+"torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+pytorch-lightning>=2.2.0
+tqdm
+numpy
+pandas
+matplotlib
+seaborn
+librosa
+scikit-learn
+Pillow
+wandb
+tensorboard"
