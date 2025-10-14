@@ -23,5 +23,5 @@ venv/
 
 
 # Analysis outputs
-data/processed/latent_embeddings.csv
-data/emotion_clusters.csv
+data/
+models/
