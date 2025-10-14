@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Data and models
+data/raw/*
+data/processed/*
+models/*.pt
+
+# Virtual environments
+venv/
+.env/
+
+# OS and editor files
+.DS_Store
+*.swp
+
+# Streamlit cache
+.streamlit/
+
+
+# Analysis outputs
+data/processed/latent_embeddings.csv
+data/emotion_clusters.csv
